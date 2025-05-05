@@ -1,27 +1,27 @@
-## About me
+**About me**
 
 - Hi, I’m Edmilson Ribeiro
 - I’m interested in web development
 - I’m currently learning web development.
 
-## Contacts
+**Contacts**
 
 - [LinkedIn](https://www.linkedin.com/in/4n1onio)
 
-## Skills
+**Skills**
 
 - HTML, CSS
 - JavaScript
 
-## Projects
+**Projects**
 
 - [Synthetic Thought](https://github.com/4n1onio/synthetic): Static single webpage for IA Blog.
 
-## Next steps
+**Next steps**
 
 - Learn Front-end framework like Vue
 
-## Badges
+**Badges**
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
